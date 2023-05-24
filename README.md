@@ -1,1 +1,1 @@
-# 8-Puzzle-Using-A-Algorithm
+# 8 Puzzle Using A* Algorithm
